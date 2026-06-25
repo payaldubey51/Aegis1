@@ -14,11 +14,9 @@ import EmergencyActions from "./EmergencyActions";
 import SOSNotifications from "./SOSNotifications";
 import VoiceSOS from "./VoiceSOS";
 import ShakeSOS from "./ShakeSOS";
-import Navbar from "./components/Navbar";
 import HomeStats from "./HomeStats";
 import ActivityTimeline from "./ActivityTimeline";
-import GuardianPanel from "./GuardianPanel";
-import QuickActions from "./QuickActions";
+
 
 
 
